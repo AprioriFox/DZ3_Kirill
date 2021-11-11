@@ -9,7 +9,7 @@ const twoMass = (arr1,arr2) => {
         console.log("Массивы равны");
     }
 }
-const arr1 = [1,2,3,4,5];
+const arr1 = [1,2,3,4,5,6,7];
 const arr2 = [1,2,3,4,5];
 
 twoMass(arr1, arr2);
