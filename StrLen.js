@@ -3,5 +3,4 @@ const countChar = (str) => {
 }
 let str = prompt("Введите строку");
 
-
 countChar(str);
